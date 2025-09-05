@@ -1,1 +1,1 @@
-console.log("App started. Initializing...");
+console.log("Initializing...");
